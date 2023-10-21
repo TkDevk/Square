@@ -1,0 +1,28 @@
+
+/*Px will be my dafult measure**/
+/*Damage(--damage)
+  Healing(--healing)
+
+**/
+
+:root{
+    --damage:#f52626;
+    --healing: #31cd02;
+    --bodyColor:#0a5d58;
+}
+/*Relative position*/
+.body-Square{
+    border: 5px solid black;
+    border-radius: 10px;
+    width: 5rem;
+    height: 5rem;
+    background-color:var(--bodyColor) ;
+    position: relative;
+}
+.body-Square{
+
+    
+}
+.square-Methods{
+    
+}
